@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   List<String> string = ['a', 'e', 'i', 'o', 'u'];
   String element = 'v';
